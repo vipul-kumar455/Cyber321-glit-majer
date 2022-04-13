@@ -1,4 +1,4 @@
-[![logo](https://github.com/Cyber321-glit-majer/Cyber321-glit-majer/blob/main/assets/profile.jpg)](https://www.youtube.com/channel/UC-uszN_8obfALKlqsiRDXyQ)
+[![logo](https://github.com/Cyber321-glit-majer/Cyber321-glit-majer/blob/main/assets/evolving_google_identity_2x1.jpg)](https://www.youtube.com/channel/UC-uszN_8obfALKlqsiRDXyQ)
 ### Hi there 👋
 
 <!--
