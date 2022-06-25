@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 [Linkedin](https://www.linkedin.com/in/vipul-kumar-22a36a1b0/) || 
 - Coding Profile 
 [GeeksForGeeks]( https://auth.geeksforgeeks.org/user/marianaweb99/profile) || [LeetCode]( https://leetcode.com/vkumarchaurasia98/) || [CodeChef]( https://www.codechef.com/users/cyber1230)  || [Hackerrank](https://www.hackerrank.com/vkumarchaurasia1)  || [Hackerearth](https://www.hackerearth.com/@vipul662)
+- [Resume](https://drive.google.com/file/d/1jfKzOpL0p6BoOTdE0IUcdQqqGCkdmVWW/view?usp=sharing)
