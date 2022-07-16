@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <!--
-**Cyber321-glit-majer/Cyber321-glit-majer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Cyber321-glit-majer/Cyber321-glit-majer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - [Resume](https://drive.google.com/file/d/1jfKzOpL0p6BoOTdE0IUcdQqqGCkdmVWW/view?usp=sharing)
 
 
-
+-->
 
 
 
