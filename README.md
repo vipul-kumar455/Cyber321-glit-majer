@@ -27,10 +27,19 @@ Here are some ideas to get you started:
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
  </div>
   
-<div align="center">
-  
-  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF1493&size=36&center=true&vCenter=true&width=700&lines=Hey!+It's+Abhishek!;I+Am+Competitive +Programmer...;%E2%9D%A4+MongoDb+Nodejs+React.js...;+%E2%9D%A4+DSA...)](https://git.io/typing-svg)
+<div>
+<h1>About me</h1>
+<p>
+- 🔭 I’m currently working on C++
+- 🌱 I’m currently learning Data structure and algorithm
+- Hi, I am Vipul Kumar Currently I am pursuing Btech in Information technology from Cochin university of science and technology Currently I am doing competitive programming , data structure and algorithm and I also like to learn and explore in the field of emerging technology
+
+- Contact Me
+[Linkedin](https://www.linkedin.com/in/vipul-kumar-22a36a1b0/) || 
+- Coding Profile 
+[GeeksForGeeks]( https://auth.geeksforgeeks.org/user/marianaweb99/profile) || [LeetCode]( https://leetcode.com/vkumarchaurasia98/) || [CodeChef]( https://www.codechef.com/users/cyber1230)  || [Hackerrank](https://www.hackerrank.com/vkumarchaurasia1)  || [Hackerearth](https://www.hackerearth.com/@vipul662)
+- [Resume](https://drive.google.com/file/d/1jfKzOpL0p6BoOTdE0IUcdQqqGCkdmVWW/view?usp=sharing)
+</p>
 </div>
 
 <p align="center">
