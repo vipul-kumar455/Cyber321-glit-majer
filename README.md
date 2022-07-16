@@ -30,29 +30,31 @@ Here are some ideas to get you started:
 <div>
 <h1>About me</h1>
 <p>
-- 🔭 I’m currently working on C++
-- 🌱 I’m currently learning Data structure and algorithm
-- Hi, I am Vipul Kumar Currently I am pursuing Btech in Information technology from Cochin university of science and technology Currently I am doing competitive programming , data structure and algorithm and I also like to learn and explore in the field of emerging technology
+- 🔭 I’m currently working on C++ <br>
+- 🌱 I’m currently learning Data structure and algorithm <br>
+- Hi, I am Vipul Kumar Currently I am pursuing Btech in Information technology from Cochin university of science and technology Currently I am doing competitive programming , data structure and algorithm and I also like to learn and explore in the field of emerging technology <br>
 
 - Contact Me
+ <br>
 [Linkedin](https://www.linkedin.com/in/vipul-kumar-22a36a1b0/) || 
 - Coding Profile 
 [GeeksForGeeks]( https://auth.geeksforgeeks.org/user/marianaweb99/profile) || [LeetCode]( https://leetcode.com/vkumarchaurasia98/) || [CodeChef]( https://www.codechef.com/users/cyber1230)  || [Hackerrank](https://www.hackerrank.com/vkumarchaurasia1)  || [Hackerearth](https://www.hackerearth.com/@vipul662)
 - [Resume](https://drive.google.com/file/d/1jfKzOpL0p6BoOTdE0IUcdQqqGCkdmVWW/view?usp=sharing)
 </p>
 </div>
-
+<br>
 <p align="center">
   
-  
+ <!-- 
   <em>
     Hello, I am Vipul Kumar a <b>Final year</b> undergraduate from <a href="https://cusat.ac.in/"> <b>CUSAT Kerala</b></a>. <br>
     <!--<b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> and a <b>Web Developer( MERN ) </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36">&nbsp,<br>
  --> </em> 
+ 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-
+-->
 <div>
   <h2> About Me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width = 30></h2>
 
