@@ -30,16 +30,16 @@ Here are some ideas to get you started:
 <div align="center">
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF1493&size=36&center=true&vCenter=true&width=700&lines=Hey!+It's+Abhishek!;I+Am+MERN+Developer...;%E2%9D%A4+MongoDb+Nodejs+React.js...;+%E2%9D%A4+DSA...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF1493&size=36&center=true&vCenter=true&width=700&lines=Hey!+It's+Abhishek!;I+Am+Competitive +Programmer...;%E2%9D%A4+MongoDb+Nodejs+React.js...;+%E2%9D%A4+DSA...)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
   
   
   <em>
-    Hello, I am Abhishek Tiwari a <b>Final year</b> undergraduate from <a href="http://www.nitmanipur.ac.in/"> <b>Nit Manipur</b></a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> and a <b>Web Developer( MERN ) </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36">&nbsp,<br>
-  </em> 
+    Hello, I am Vipul Kumar a <b>Final year</b> undergraduate from <a href="https://cusat.ac.in/"> <b>CUSAT Kerala</b></a>. <br>
+    <!--<b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> and a <b>Web Developer( MERN ) </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36">&nbsp,<br>
+ --> </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
@@ -50,15 +50,8 @@ Here are some ideas to get you started:
 
  <img align="right" height=300  width=250 alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-- 🔭 I’m currently working on [Facebook clone](https://github.com/abhi9720/facebook-clone)
-  
-- 🌱 I’m currently learning **Reactjs**
-  
-- 👯 I’m looking to collaborate on [Facebook Clone](https://github.com/abhi9720/facebook-clone)
-- 💬 Ask me about **Mern Stack**
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 
-  
+<!--  
 #### A little more about me
 ```javascript
 const Abhishek = {
@@ -71,6 +64,7 @@ const Abhishek = {
   }
 }
 ```
+-->
 </div>  
 <h2 align="left">Search me on 🔎:  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60" height="20"> </h2>
 <p align="left">
