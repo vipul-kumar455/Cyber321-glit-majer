@@ -1,4 +1,4 @@
-
+<!--
 ### Hi there 👋
 
 <!--
@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/vkumarchaurasia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhi9720" height="30" width="40" /></a>
 <a href="https://leetcode.com/vkumarchaurasia98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi9720" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/marianaweb99/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhi9720" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/marianaweb99/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhi9720" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/marianaweb99/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhi9720" height="30" width="40" /></a>
 </p>‎‎
 
 
@@ -98,6 +100,37 @@ Here are some ideas to get you started:
 </div>
 
 
+-->
+ <h1 align="center">Hi 👋, I'm VIPUL KUMAR</h1>
+<h3 align="center">A passionate Competitive programmer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber321-glit-majer&label=Profile%20views&color=0e75b6&style=flat" alt="cyber321-glit-majer" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber321-glit-majer" alt="cyber321-glit-majer" /></a> </p>
+
+- 🔭 I’m currently working on **c++**
+
+- 🌱 I’m currently learning **Data Structure and algorithm**
+
+- 📫 How to reach me **vkumarchaurasia98@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vipul-kumar-22a36a1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul-kumar-22a36a1b0" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/cyber1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cyber1230" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vkumarchaurasia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vkumarchaurasia1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vkumarchaurasia98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vkumarchaurasia98" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/marianaweb99/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="marianaweb99/profile" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber321-glit-majer&show_icons=true&locale=en&layout=compact" alt="cyber321-glit-majer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber321-glit-majer&show_icons=true&locale=en" alt="cyber321-glit-majer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyber321-glit-majer&" alt="cyber321-glit-majer" /></p>
 
 
  
