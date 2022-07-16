@@ -107,9 +107,10 @@ Here are some ideas to get you started:
  <h1 align="center">Hi 👋, I'm VIPUL KUMAR</h1>
 <h3 align="center">A passionate Competitive programmer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber321-glit-majer&label=Profile%20views&color=0e75b6&style=flat" alt="cyber321-glit-majer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber321-glit-majer" alt="cyber321-glit-majer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber321-glit-majer"&theme=onedark alt="cyber321-glit-majer" /></a> </p>
 
 - 🔭 I’m currently working on **c++**
 
