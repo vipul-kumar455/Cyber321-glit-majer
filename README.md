@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p>
 - 🔭 I’m currently working on C++ <br>
 - 🌱 I’m currently learning Data structure and algorithm <br>
-- Hi, I am Vipul Kumar Currently I am pursuing Btech in Information technology from Cochin university of science and technology Currently I am doing competitive programming , data structure and algorithm and I also like to learn and explore in the field of emerging technology <br>
+- <h3>Hi, I am Vipul Kumar Currently I am pursuing Btech in Information technology from Cochin university of science and technology Currently I am doing competitive programming , data structure and algorithm and I also like to learn and explore in the field of emerging technology</h3> <br>
 
 - Contact Me
  <br>
