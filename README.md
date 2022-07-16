@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - Coding Profile 
 [GeeksForGeeks]( https://auth.geeksforgeeks.org/user/marianaweb99/profile) || [LeetCode]( https://leetcode.com/vkumarchaurasia98/) || [CodeChef]( https://www.codechef.com/users/cyber1230)  || [Hackerrank](https://www.hackerrank.com/vkumarchaurasia1)  || [Hackerearth](https://www.hackerearth.com/@vipul662)
 - [Resume](https://drive.google.com/file/d/1jfKzOpL0p6BoOTdE0IUcdQqqGCkdmVWW/view?usp=sharing)
+
+const Abhishek = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Nodejs","React", "Java", "Python"],
+  askMeAbout: ["web dev", "Automation & Scrapping", "Programming"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","React.js"],
+      backend: ["Nodejs", "JS"],
+  }
+}
