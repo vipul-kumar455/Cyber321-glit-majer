@@ -101,6 +101,9 @@ Here are some ideas to get you started:
 
 
 -->
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <Coders/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+ </div>
  <h1 align="center">Hi 👋, I'm VIPUL KUMAR</h1>
 <h3 align="center">A passionate Competitive programmer from India</h3>
 
